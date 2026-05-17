@@ -1,0 +1,36 @@
+﻿  main.cpp
+C:\Users\zingo\source\repos\Labirint\Labirint\main.cpp(251,37): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\zingo\source\repos\Labirint\Labirint\main.cpp(251,26): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\zingo\source\repos\Labirint\Labirint\main.cpp(252,37): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\zingo\source\repos\Labirint\Labirint\main.cpp(252,26): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\zingo\source\repos\Labirint\Labirint\main.cpp(253,37): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\zingo\source\repos\Labirint\Labirint\main.cpp(253,26): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\zingo\source\repos\Labirint\Labirint\main.cpp(254,37): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\zingo\source\repos\Labirint\Labirint\main.cpp(254,26): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\zingo\source\repos\Labirint\Labirint\main.cpp(275,26): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\zingo\source\repos\Labirint\Labirint\main.cpp(275,22): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\zingo\source\repos\Labirint\Labirint\main.cpp(275,48): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\zingo\source\repos\Labirint\Labirint\main.cpp(275,44): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\zingo\source\repos\Labirint\Labirint\main.cpp(276,25): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\zingo\source\repos\Labirint\Labirint\main.cpp(276,20): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\zingo\source\repos\Labirint\Labirint\main.cpp(276,47): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\zingo\source\repos\Labirint\Labirint\main.cpp(276,42): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\zingo\source\repos\Labirint\Labirint\main.cpp(290,37): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\zingo\source\repos\Labirint\Labirint\main.cpp(291,22): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\zingo\source\repos\Labirint\Labirint\main.cpp(291,20): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\zingo\source\repos\Labirint\Labirint\main.cpp(291,39): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\zingo\source\repos\Labirint\Labirint\main.cpp(295,25): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\zingo\source\repos\Labirint\Labirint\main.cpp(295,17): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\zingo\source\repos\Labirint\Labirint\main.cpp(297,25): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\zingo\source\repos\Labirint\Labirint\main.cpp(297,17): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\zingo\source\repos\Labirint\Labirint\main.cpp(313,37): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\zingo\source\repos\Labirint\Labirint\main.cpp(314,22): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\zingo\source\repos\Labirint\Labirint\main.cpp(314,20): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\zingo\source\repos\Labirint\Labirint\main.cpp(314,39): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\zingo\source\repos\Labirint\Labirint\main.cpp(319,23): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\zingo\source\repos\Labirint\Labirint\main.cpp(319,17): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\zingo\source\repos\Labirint\Labirint\main.cpp(332,33): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\zingo\source\repos\Labirint\Labirint\main.cpp(332,21): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\zingo\source\repos\Labirint\Labirint\main.cpp(337,17): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\zingo\source\repos\Labirint\Labirint\main.cpp(338,17): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  Labirint.vcxproj -> C:\Users\zingo\source\repos\Labirint\x64\Debug\Labirint.exe
